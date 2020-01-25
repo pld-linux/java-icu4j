@@ -7,7 +7,6 @@
 %endif
 
 %define		srcname icu4j
-%include	/usr/lib/rpm/macros.java
 Summary:	International Components for Unicode for Java
 Name:		java-%{srcname}
 Version:	52.1
